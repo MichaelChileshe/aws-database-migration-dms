@@ -1,0 +1,5 @@
+table,full load,cdc ins,cdc upd,cdc del,state,validation,pending,failed,suspended
+customers,0,0,0,0,Table completed,Validated,0,0,0
+order_items,0,0,0,0,Table completed,Mismatched records,0,142,0
+orders,0,0,0,0,Table completed,Mismatched records,0,250,0
+products,0,0,0,0,Table completed,Validated,0,0,0

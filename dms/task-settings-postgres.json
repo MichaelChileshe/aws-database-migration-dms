@@ -1,0 +1,6 @@
+{
+  "TargetMetadata": { "SupportLobs": true, "LimitedSizeLobMode": true, "LobMaxSize": 32 },
+  "FullLoadSettings": { "TargetTablePrepMode": "DROP_AND_CREATE" },
+  "Logging": { "EnableLogging": true },
+  "ValidationSettings": { "EnableValidation": true, "ThreadCount": 5 }
+}

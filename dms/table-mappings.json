@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+      "rule-type": "selection",
+      "rule-id": "1",
+      "rule-name": "ubuntu-retail-all-tables",
+      "object-locator": { "schema-name": "ubuntu_retail", "table-name": "%" },
+      "rule-action": "include"
+    }
+  ]
+}

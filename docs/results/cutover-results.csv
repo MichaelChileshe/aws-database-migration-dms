@@ -1,0 +1,2 @@
+last_source_write_utc,first_aurora_write_utc,downtime_s,catch-up (counts equal),validation gate,stop DMS task,add foreign keys
+2026-10-06T09:59:42.417000+00:00,2026-10-06T10:04:27.236000+00:00,284.8,11.9,197.4,35.7,33.3

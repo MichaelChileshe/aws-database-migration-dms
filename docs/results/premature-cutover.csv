@@ -1,0 +1,6 @@
+table,source,aurora,missing
+customers,5000,5000,0
+products,500,500,0
+orders,201002,200860,142
+order_items,401002,400860,142
+max order_id,201002,200860,142

@@ -1,0 +1,5 @@
+{
+  "FullLoadSettings": { "TargetTablePrepMode": "DO_NOTHING" },
+  "Logging": { "EnableLogging": true },
+  "ValidationSettings": { "EnableValidation": true, "ValidationOnly": true, "ThreadCount": 5 }
+}
